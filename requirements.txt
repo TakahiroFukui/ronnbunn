@@ -13,3 +13,4 @@ langchain.callbacks
 streamlit==1.20.0
 openai
 langchain.embeddings.openai
+langchain.text_splitter
