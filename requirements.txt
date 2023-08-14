@@ -1,0 +1,9 @@
+sudachipy
+SudachiDict_core
+wordcloud
+matplotlib
+numpy
+requests
+PyPDF2
+streamlit
+pandas
