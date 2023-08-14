@@ -17,3 +17,4 @@ langchain.text_splitter
 langchain.vectorstores
 langchain.chains
 qdrant_client
+qdrant_client.models
