@@ -10,4 +10,3 @@ pandas
 streamlit==1.20.0
 openai
 qdrant_client
-qdrant_client.models
