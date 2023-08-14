@@ -1,3 +1,4 @@
+glob
 sudachipy
 SudachiDict_core
 wordcloud
