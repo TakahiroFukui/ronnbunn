@@ -7,7 +7,6 @@ numpy
 requests
 PyPDF2
 pandas
-langchain.callbacks
 streamlit==1.20.0
 openai
 langchain.embeddings.openai
