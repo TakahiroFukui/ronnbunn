@@ -1,7 +1,3 @@
-!pip -q install streamlit
-!pip -q install langchain
-!pip -q install PyPDF2
-!pip -q install qdrant_client
 
 import streamlit as st
 from langchain.callbacks import get_openai_callback
