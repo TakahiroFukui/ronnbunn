@@ -1,4 +1,5 @@
 glob
+langchain.chat_models
 sudachipy
 SudachiDict_core
 wordcloud
