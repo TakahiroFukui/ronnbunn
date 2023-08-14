@@ -16,4 +16,4 @@ langchain.embeddings.openai
 langchain.text_splitter
 langchain.vectorstores
 langchain.chains
-langchain.chains
+qdrant_client
